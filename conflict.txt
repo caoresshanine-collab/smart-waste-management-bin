@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is text from the main branch
 
+=======
+This is completely different text from the conflict branch
+>>>>>>> conflict-test
